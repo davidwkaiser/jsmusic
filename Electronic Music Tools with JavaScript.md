@@ -11,7 +11,7 @@ Electronic Music Tools with JavaScript
 
 
 </body>
-<script>
+<script>  
 var audio_context = window.AudioContext || window.webkitAudioContext;
 
 var con = new audio_context();
